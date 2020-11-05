@@ -11,6 +11,8 @@ In the App-Epilepsy-PatientFacing App repository  https://github.com/openmind-co
 ## Wiki pages and how to ##
 The full description of both applications and how to use it are included on wiki page: https://github.com/openmind-consortium/App-Mayo-PatientFacingApp-/wiki
 
+The detailed description of EPAD and how to can be located at this wiki page: https://github.com/openmind-consortium/App-Epilepsy-PatientFacingApp-/wiki/1.-Epilepsy-Patient-Assistant-Device-(EPAD)
+
 ## Contact ##
 If you have any questions don't hesitate to contact Vaclav @: kremen.vaclav(at)mayo.edu 
 
