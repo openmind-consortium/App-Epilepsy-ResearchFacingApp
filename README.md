@@ -2,7 +2,7 @@
 
 Mayo Epilepsy Personal Assistent Device and Mayo Data Management Platform are both Researcher and Patient facing application. 
 
-## Current Epilepsy Patient Assist Device (EPAD) version - copy and ready to run ##
+## Current Epilepsy Patient Assist Device (EPAD) version - just copy and run it ##
 Here in this repository, you can find compiled version of current EPAD version.
 
 ## Data Management Platform - source codes ##
